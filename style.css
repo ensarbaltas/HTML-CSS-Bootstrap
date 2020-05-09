@@ -1,0 +1,118 @@
+.title{
+    background-color: rgb(35, 96, 156);
+    width: 1800px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+}
+
+#FirstTitle{
+    border: 1px;
+    width: 900px;
+    height: 60px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: ghostwhite;
+    padding: 40px 0px 30px 0px;
+}
+
+#SecondTitle{
+    width: 900px;
+    height: 80px;
+    text-align:left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px 0 5px 10px;
+    color: ghostwhite;
+}
+#box3{
+    font-size: 18px;
+    padding-left: 3px;
+}
+
+.body{
+    background-color: rgb(231, 236, 243);
+    width: 1800px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.body1{
+    width: 900px;
+}
+
+#text1{
+    color: blue;
+    font-size: 20px;
+    padding: 30px 20px 0 340px;
+}
+
+#img2{
+    width: 400px;
+    margin: 0px 20px 0 340px;
+}
+
+.body2{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: royalblue;
+}
+
+#line1{
+    color: rgb(12, 118, 204);
+    width: 330px;
+}
+
+#box{
+    font-size: 20px;
+}
+
+#tabletext{
+    text-align: right;
+}
+
+#box2{
+    font-size: 16px;
+}
+
+#WhyDo1{
+    margin-left: 90px;
+}
+
+#WhyDo2{
+    margin-left: 90px;
+    color: black;
+}
+
+#button{
+    background-color: rgb(124, 209, 157);
+    font-size: 18px;
+    margin-left: 90px;
+}
+
+#WhyDo3{
+    text-align: center;
+}
+
+#LastText1{
+    text-align: left;
+    color: dodgerblue;
+    margin-left: 600px;
+}
+
+#line3{
+    width: 1800px;
+}
+
+#footer{
+    margin-left: 300px;
+    color: grey;
+    
+}
+
+#LastText2{
+
+    text-align: center;
+    color: dodgerblue;
+}
+
